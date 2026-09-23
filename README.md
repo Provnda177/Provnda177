@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Provnda177
+- 👋 Hi, I’m @Provndat177
 - 👀 I’m interested in Chs game và học
-- 🌱 I’m currently learning THPT Bình Phục Nhứt
+- 🌱 I’m currently learning FPT Polytechnic TPHCM
 - 💞️ I’m looking to collaborate on VNPEDL
 - 📫 How to reach me Tiếp cận tui là xong
 
